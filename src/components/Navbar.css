@@ -69,7 +69,7 @@
 }
 
 .nav-links a:not(.btn):hover::after,
-.nav-links a.active:not(.btn):::after {
+.nav-links a.active:not(.btn)::after {
   width: 100%;
 }
 
